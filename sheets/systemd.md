@@ -61,6 +61,6 @@ Show time spent in each startup phase.
 
 **Example I used:**
 ```bash
-systemctl-analyze
+systemd-analyze
 systemd-analyze blame | head -20
 ```
